@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Klienci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Klient>
+    <nazwisko>Bartek Nowak</nazwisko>
+    <kartakredytowa>1234-5678-9012-3456</kartakredytowa>
+    <haslo>CNy2eXzHMf2qdzkEUpSFo51//hc4BD9K09WO69lShYc=</haslo>
+  </Klient>
+  <Klient>
+    <nazwisko>Bartek Nowak</nazwisko>
+    <kartakredytowa>1234-5678-9012-3456</kartakredytowa>
+    <haslo>a4iMgGBk2vkdJdRKIznHjNDQvuoFkqFIime9JIluPoE=</haslo>
+  </Klient>
+  <Klient>
+    <nazwisko>Bartek Nowak</nazwisko>
+    <kartakredytowa>1234-5678-9012-3456</kartakredytowa>
+    <haslo>q5cbddPegBWLkr6uhVny/PkyBHeM+tNBNpdYGGhjjNQ=</haslo>
+  </Klient>
+</Klienci>

@@ -1,0 +1,11 @@
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\obj\Debug\netcoreapp2.1\Szyfrowanie.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\obj\Debug\netcoreapp2.1\Szyfrowanie.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\obj\Debug\netcoreapp2.1\Szyfrowanie.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\obj\Debug\netcoreapp2.1\Szyfrowanie.AssemblyInfo.cs
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\bin\Debug\netcoreapp2.1\Szyfrowanie.deps.json
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\bin\Debug\netcoreapp2.1\Szyfrowanie.runtimeconfig.json
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\bin\Debug\netcoreapp2.1\Szyfrowanie.runtimeconfig.dev.json
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\bin\Debug\netcoreapp2.1\Szyfrowanie.dll
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\bin\Debug\netcoreapp2.1\Szyfrowanie.pdb
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\obj\Debug\netcoreapp2.1\Szyfrowanie.dll
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\obj\Debug\netcoreapp2.1\Szyfrowanie.pdb

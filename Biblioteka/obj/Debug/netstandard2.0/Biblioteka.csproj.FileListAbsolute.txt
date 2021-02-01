@@ -1,0 +1,9 @@
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\bin\Debug\netstandard2.0\Biblioteka.deps.json
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\bin\Debug\netstandard2.0\Biblioteka.dll
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\bin\Debug\netstandard2.0\Biblioteka.pdb
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\obj\Debug\netstandard2.0\Biblioteka.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\obj\Debug\netstandard2.0\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\obj\Debug\netstandard2.0\Biblioteka.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\obj\Debug\netstandard2.0\Biblioteka.AssemblyInfo.cs
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\obj\Debug\netstandard2.0\Biblioteka.dll
+C:\Users\Piotr\Documents\dotnet_projects\Szyfrowanie\Biblioteka\obj\Debug\netstandard2.0\Biblioteka.pdb
